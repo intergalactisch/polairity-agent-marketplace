@@ -1,0 +1,15 @@
+{
+  "name": "polairity-agent-marketplace",
+  "version": "0.5.0",
+  "description": "Agent Skills package for writing private Polairity signal entries.",
+  "license": "MIT",
+  "homepage": "https://polairity.io",
+  "repository": "https://github.com/intergalactisch/polairity-agent-marketplace",
+  "keywords": [
+    "agent-skills",
+    "opencode",
+    "polairity",
+    "signals",
+    "ai-tools"
+  ]
+}

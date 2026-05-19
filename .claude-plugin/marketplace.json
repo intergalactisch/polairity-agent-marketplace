@@ -1,0 +1,27 @@
+{
+  "name": "polairity-agent-marketplace",
+  "owner": {
+    "name": "Polairity"
+  },
+  "metadata": {
+    "description": "Agent helpers for writing privacy-preserving private Polairity signal entries.",
+    "version": "0.5.0"
+  },
+  "plugins": [
+    {
+      "name": "polairity",
+      "source": "./claude",
+      "description": "Write private Polairity signal entries without uploading private work data.",
+      "version": "0.5.0",
+      "author": {
+        "name": "Polairity"
+      },
+      "category": "productivity",
+      "tags": [
+        "signals",
+        "ai-tools",
+        "privacy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "polairity",
+  "version": "0.5.0",
+  "description": "Write private Polairity signal entries from high-level tool assessments.",
+  "author": {
+    "name": "Polairity"
+  },
+  "homepage": "https://polairity.io",
+  "repository": "https://github.com/intergalactisch/polairity-agent-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "polairity",
+    "signals",
+    "ai-tools",
+    "evaluation"
+  ]
+}

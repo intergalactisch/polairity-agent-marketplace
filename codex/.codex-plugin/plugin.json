@@ -1,0 +1,33 @@
+{
+  "name": "polairity",
+  "version": "0.5.0",
+  "description": "Write private Polairity signal entries from high-level tool assessments.",
+  "author": {
+    "name": "Polairity"
+  },
+  "homepage": "https://polairity.io",
+  "repository": "https://github.com/intergalactisch/polairity-agent-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "polairity",
+    "signals",
+    "ai-tools",
+    "evaluation"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Polairity",
+    "shortDescription": "Save a private signal entry",
+    "longDescription": "Turn a user's high-level AI tool assessment into a private Polairity signal entry. The plugin prepares a catalog-backed form, can show compact prior ratings, asks only for confirmed signal fields, never publishes publicly, and never uploads private code, prompts, or logs.",
+    "developerName": "Polairity",
+    "category": "Engineering",
+    "websiteURL": "https://polairity.io",
+    "privacyPolicyURL": "https://polairity.io/privacy",
+    "termsOfServiceURL": "https://polairity.io/terms",
+    "brandColor": "#2563EB",
+    "defaultPrompt": [
+      "Use @polairity to save a private signal entry for this AI tool experience"
+    ],
+    "screenshots": []
+  }
+}

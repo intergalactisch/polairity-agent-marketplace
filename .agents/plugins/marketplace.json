@@ -1,0 +1,20 @@
+{
+  "name": "polairity-agent-marketplace",
+  "interface": {
+    "displayName": "Polairity Agent Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "polairity",
+      "source": {
+        "source": "local",
+        "path": "./codex"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Engineering"
+    }
+  ]
+}
